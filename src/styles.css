@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+button.btn {
+  margin-right: 0.2rem;
+  margin-left: 0.2rem;
+}
+
+button.btn:first-child {
+  margin-left: initial;
+}
+
+button.btn:last-child {
+  margin-right: initial;
+}
